@@ -1,0 +1,6 @@
+movie_id,title,overview,genres,keywords,cast,crew
+1,Avatar,Marine on alien planet,["Action","Adventure"],["future","alien"],["Sam Worthington","Zoe Saldana"],James Cameron
+2,Titanic,Love story on ship,["Romance","Drama"],["ship","love"],["Leonardo DiCaprio","Kate Winslet"],James Cameron
+3,Avengers,Superheroes save world,["Action","Sci-Fi"],["hero","marvel"],["Robert Downey Jr.","Chris Evans"],Joss Whedon
+4,Interstellar,Space exploration mission,["Sci-Fi","Drama"],["space","time"],["Matthew McConaughey","Anne Hathaway"],Christopher Nolan
+5,The Dark Knight,Batman fights Joker,["Action","Crime"],["joker","batman"],["Christian Bale","Heath Ledger"],Christopher Nolan
